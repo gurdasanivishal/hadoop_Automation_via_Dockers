@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>STAAS</title>
+<style>
+body {
+      background-image: url("https://cdn-images-1.medium.com/max/1920/1*TklL7QYA-HiCjoK7_suS3w.jpeg");
+	background-size: 100% 100%;
+	
+}
+</style>
+
+<h1 align="center" style="color:white;font-size:300%;">Admin Page Section</h1>
+</head>
+<center>
+<body>
+<form action="/cgi-bin/systemadminpage.py" method="POST">
+
+<a style="color:white;font-size:200%;">Enter Name Of Disk:  <input type="text" name="diskname"required></a><br/><br/>
+<a style="color:white;font-size:200%;">Enter Logical Volume Size: <input type="number" name="disksize"required></a><br/><br/>
+<a style="color:white;font-size:200%;">Enter Name Of Logical Volume Name: <input type="text" name="logicalvolumename" value="pool1"></a><br/><br/>
+
+                                <a href="clientside.html"><input type="submit" value="submit"></a>
+</center>
+</form>
+</body>
+</html>
+

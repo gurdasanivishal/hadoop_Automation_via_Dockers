@@ -1,0 +1,10 @@
+polarity=0.0
+polarity=0.0
+polarity=-0.05
+polarity=0.4166666666666667
+polarity=0.0
+polarity=0.08333333333333333
+polarity=0.0
+polarity=0.0
+polarity=-0.125
+polarity=-0.0625
