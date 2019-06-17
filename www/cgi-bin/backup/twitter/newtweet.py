@@ -26,8 +26,8 @@ consumer_secret= "2MStXA6KJW4P7ukHXhXTuQXELS6NWHgeYimpERoo2n1PEriy7o"
 auth=tweepy.OAuthHandler(consumer_key,consumer_secret)
 
 #create secret key and access key 
-access_key="828509864259362816-BYMs8bbjrjM7QWiWHuOC3S3u80auDZq"
-access_secret="iIi9BYsdGK1QIYBCO43E1GSbZNjkiPRCfRNuJtyNWdlZP"
+access_key="<enter your access key>"
+access_secret="<enter yout access secret>"
 
 #here auth is very much similar to session variable
 auth.set_access_token(access_key,access_secret)
