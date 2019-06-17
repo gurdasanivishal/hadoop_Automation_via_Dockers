@@ -19,8 +19,8 @@ topic=web.getvalue('nm')
 
 
 #to authenticate twitter from ur account 
-consumer_key="zjrIF96GCGmyxyZlbGUPlgeu4"
-consumer_secret= "2MStXA6KJW4P7ukHXhXTuQXELS6NWHgeYimpERoo2n1PEriy7o"
+consumer_key="<enter your consumer_key >"
+consumer_secret= "<enter your consumer_secret >"
 
 #to authenticate
 auth=tweepy.OAuthHandler(consumer_key,consumer_secret)
